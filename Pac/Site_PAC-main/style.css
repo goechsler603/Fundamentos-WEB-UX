@@ -1,0 +1,40 @@
+#pagina{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin: 1rem;
+}
+
+#conteudo{
+    display: flex;
+    justify-content: baseline;
+    align-items: center;
+}
+
+#logica{
+    width: 429.75px;
+    height: 270px;
+}
+
+img{
+    margin: 1em;
+}
+
+#texto, h2{
+    margin: 1em;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    
+}
+
+#destaqueTexto{
+    color: #eb5757;
+}
+
+li{
+    margin-bottom: 1rem;
+    
+}
